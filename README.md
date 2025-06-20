@@ -1,7 +1,7 @@
 ##kaken
 
 #data.yamlの中身
-train: C:/kaken/dataset/images/train  # 訓練用画像のパス
+train: C:/kaken/dataset/images/train  # 訓練用画像のパス  
 val: C:/kaken/dataset/images/val      # 検証用画像のパス
 
 nc: 2  # クラス数
